@@ -11,4 +11,6 @@ specified grid value.
 
 - Here is a match of the game: 
 
-
+![Alt txt](https://github.com/tanvir14012/Class-Work-Java-/blob/master/Candy%20Crash/Screenshot/CandyCrash.jpg)
+![Alt txt](https://github.com/tanvir14012/Class-Work-Java-/blob/master/Candy%20Crash/Screenshot/CandyCrash2.jpg)
+![Alt txt](https://github.com/tanvir14012/Class-Work-Java-/blob/master/Candy%20Crash/Screenshot/CandyCrash3.PNG)
